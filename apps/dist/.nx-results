@@ -1,0 +1,6 @@
+{
+  "command": "e2e",
+  "results": {
+    "github-cards-app-e2e": false
+  }
+}
